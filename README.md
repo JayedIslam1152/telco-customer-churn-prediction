@@ -129,9 +129,7 @@ Models were evaluated using the following metrics:
 
 Feature importance analysis was performed using:
 
-* Decision Tree Classifier
 * Random Forest Classifier
-* XGBoost Classifier
 
 This analysis highlights the features that contribute most to customer churn prediction.
 
